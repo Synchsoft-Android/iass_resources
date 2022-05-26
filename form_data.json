@@ -1,14 +1,6 @@
 {
   "form_data": [
     {
-      "title": "form 2",
-      "sub_title": "Download registration form for 7 days camp, Meerut (May 9 to 15, 2022)",
-      "form_url":"https://www.iass.info/wp-content/uploads/2022/03/registration-form.pdf",
-      "button_title": "Download Form",
-      "file_name": "1650001048563.pdf",
-      "is_enabled": false
-    },
-    {
       "title": "form 1",
       "sub_title": "Download registration form for Student-Parents Camp (June 3 to 5, 2022)",
       "form_url":"https://www.iass.info/wp-content/uploads/2022/04/Vidyarthi-Abhibhavak-Shivir.pdf",
