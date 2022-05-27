@@ -12,16 +12,16 @@
    ,
     {
       "title": "form 2",
-      "sub_title": "Download registration form for Student-Parents Camp (June 3 to 5, 2022)",
-      "form_url":"https://www.iass.info/wp-content/uploads/2022/04/Vidyarthi-Abhibhavak-Shivir.pdf",
+      "sub_title": "sample PDF",
+      "form_url":"http://www.africau.edu/images/default/sample.pdf",
       "button_title": "Download Form",
       "file_name": "1650001066985.pdf",
       "is_enabled": true
     },
     {
       "title": "form 3",
-      "sub_title": "Download registration form for Student-Parents Camp (June 3 to 5, 2022)",
-      "form_url":"https://www.iass.info/wp-content/uploads/2022/04/Vidyarthi-Abhibhavak-Shivir.pdf",
+      "sub_title": "Android tutorial",
+      "form_url":"https://www.tutorialspoint.com/android/android_tutorial.pdf",
       "button_title": "Download Form",
       "file_name": "1650001066988.pdf",
       "is_enabled": true
